@@ -1,0 +1,72 @@
+---
+layout: default
+---
+<section class="hero">
+  <div class="container">
+    <h1>Build Your Perfect<br><span class="accent">Home Office</span></h1>
+    <p>Honest guides, gear reviews, and setup ideas for remote workers and work-from-home professionals.</p>
+    <a href="#latest" class="btn-primary">Browse Guides</a>
+  </div>
+</section>
+
+<section class="featured-cats">
+  <div class="container">
+    <div class="cat-grid">
+      <a href="{{ '/guides/' | relative_url }}" class="cat-card">
+        <span class="cat-icon">🖥️</span>
+        <h3>Desk Setups</h3>
+        <p>Complete setup guides by profession and space</p>
+      </a>
+      <a href="{{ '/reviews/' | relative_url }}" class="cat-card">
+        <span class="cat-icon">🪑</span>
+        <h3>Gear Reviews</h3>
+        <p>Chairs, desks, monitors, and accessories reviewed</p>
+      </a>
+      <a href="{{ '/guides/' | relative_url }}" class="cat-card">
+        <span class="cat-icon">⚡</span>
+        <h3>Productivity</h3>
+        <p>Software, tools, and habits that actually work</p>
+      </a>
+      <a href="{{ '/guides/' | relative_url }}" class="cat-card">
+        <span class="cat-icon">💡</span>
+        <h3>Lighting</h3>
+        <p>Lighting setups for video calls and focus work</p>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="latest-posts" id="latest">
+  <div class="container">
+    <h2>Latest Guides</h2>
+    <div class="posts-grid">
+      {% for post in paginator.posts %}
+      <article class="post-card">
+        <div class="post-card-body">
+          {% if post.categories %}
+          <span class="post-card-category">{{ post.categories | first }}</span>
+          {% endif %}
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          <p>{{ post.description | default: post.excerpt | strip_html | truncate: 120 }}</p>
+          <div class="post-card-meta">
+            <span>{{ post.date | date: "%b %d, %Y" }}</span>
+            <a href="{{ post.url | relative_url }}" class="read-more">Read more →</a>
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+
+    {% if paginator.total_pages > 1 %}
+    <div class="pagination">
+      {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | relative_url }}" class="btn-ghost">← Newer</a>
+      {% endif %}
+      <span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+      {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | relative_url }}" class="btn-ghost">Older →</a>
+      {% endif %}
+    </div>
+    {% endif %}
+  </div>
+</section>
