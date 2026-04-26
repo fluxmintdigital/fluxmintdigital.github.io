@@ -42,3 +42,6 @@ defaults:
     values:
       layout: "post"
       author: "FluxMint Digital"
+
+gems:
+  - jekyll-paginate
