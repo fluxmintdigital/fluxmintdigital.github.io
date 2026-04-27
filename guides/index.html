@@ -1,0 +1,45 @@
+---
+layout: default
+title: Home Office Guides
+description: Complete home office setup guides for remote workers — desk setups, ergonomic gear, lighting, productivity tools, and more.
+permalink: /guides/
+---
+<div class="archive-page">
+  <div class="container">
+    <div class="archive-header">
+      <h1>Home Office Guides</h1>
+      <p>Practical, research-backed guides to help you build a home office that works for you.</p>
+    </div>
+    <div class="posts-grid">
+      {% assign guide_posts = site.posts | where_exp: "post", "post.categories contains 'Guides'" %}
+      {% for post in guide_posts %}
+      <article class="post-card">
+        <div class="post-card-body">
+          <span class="post-card-category">Guide</span>
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          <p>{{ post.description | default: post.excerpt | strip_html | truncate: 120 }}</p>
+          <div class="post-card-meta">
+            <span>{{ post.date | date: "%b %d, %Y" }}</span>
+            <a href="{{ post.url | relative_url }}" class="read-more">Read more →</a>
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+      {% if guide_posts.size == 0 %}
+      {% for post in site.posts limit:12 %}
+      <article class="post-card">
+        <div class="post-card-body">
+          <span class="post-card-category">{{ post.categories | first | default: "Guide" }}</span>
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          <p>{{ post.description | default: post.excerpt | strip_html | truncate: 120 }}</p>
+          <div class="post-card-meta">
+            <span>{{ post.date | date: "%b %d, %Y" }}</span>
+            <a href="{{ post.url | relative_url }}" class="read-more">Read more →</a>
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+      {% endif %}
+    </div>
+  </div>
+</div>

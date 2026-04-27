@@ -287,6 +287,35 @@ a:hover { text-decoration: underline; }
   color: var(--text-muted);
 }
 
+/* ── Archive / Category Pages ─────────────────────────────────────────────── */
+.archive-page { padding: 3rem 0 5rem; }
+
+.archive-header {
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 2px solid var(--border);
+}
+
+.archive-header h1 {
+  font-size: clamp(1.75rem, 4vw, 2.5rem);
+  font-weight: 800;
+  margin-bottom: 0.5rem;
+}
+
+.archive-header p {
+  font-size: 1.05rem;
+  color: var(--text-muted);
+  max-width: 560px;
+}
+
+.empty-archive {
+  text-align: center;
+  padding: 4rem 0;
+  color: var(--text-muted);
+  font-size: 1.05rem;
+  grid-column: 1 / -1;
+}
+
 /* ── Article / Post Page ──────────────────────────────────────────────────── */
 .post-page { padding: 3rem 0 5rem; }
 
@@ -382,6 +411,8 @@ a:hover { text-decoration: underline; }
   text-decoration-thickness: 1px;
   text-underline-offset: 2px;
 }
+
+.post-content a:hover { color: var(--brand-dark); }
 
 .post-content strong { font-weight: 700; color: var(--text); }
 
