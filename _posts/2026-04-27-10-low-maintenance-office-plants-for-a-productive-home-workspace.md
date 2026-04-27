@@ -41,61 +41,61 @@ With those factors in mind, here's our list of the top 10 office plants for your
 
 The snake plant is one of the most low-maintenance office plants out there, making it perfect for busy remote workers. This plant can thrive in low-light conditions and only needs to be watered once a week.
 
-[Snake Plant](https://amazon.com/dp/B004AABMPC?tag=fluxmint-20) is available on Amazon and starts at just $15.
+[Snake Plant](https://amazon.com/dp/B004AABMPC?tag=fluxmintdigit-20) is available on Amazon and starts at just $15.
 
 ### 2. ZZ Plant (Zamioculcas zamiifolia)
 
 The ZZ plant is another low-maintenance option that's perfect for those who tend to forget to water their plants. This plant can survive in low-light conditions and only needs to be watered once every two weeks.
 
-[ZZ Plant](https://amazon.com/dp/B00004ZJLW?tag=fluxmint-20) is available on Amazon and starts at just $25.
+[ZZ Plant](https://amazon.com/dp/B00004ZJLW?tag=fluxmintdigit-20) is available on Amazon and starts at just $25.
 
 ### 3. Spider Plant (Chlorophytum comosum)
 
 The spider plant is a popular office plant that's easy to care for and has beautiful white flowers in the spring. This plant prefers bright, indirect light and should be watered once every seven days.
 
-[Spider Plant](https://amazon.com/dp/B00004ZKQX?tag=fluxmint-20) is available on Amazon and starts at just $15.
+[Spider Plant](https://amazon.com/dp/B00004ZKQX?tag=fluxmintdigit-20) is available on Amazon and starts at just $15.
 
 ### 4. Pothos (Epipremnum aureum)
 
 Pothos is a versatile office plant that can thrive in a variety of lighting conditions, from low to bright light. This plant prefers to be watered once every seven days and can be trained to climb up walls or trellises.
 
-[Pothos](https://amazon.com/dp/B00004ZKQX?tag=fluxmint-20) is available on Amazon and starts at just $10.
+[Pothos](https://amazon.com/dp/B00004ZKQX?tag=fluxmintdigit-20) is available on Amazon and starts at just $10.
 
 ### 5. Dracaena (Dracaena spp.)
 
 The dracaena is a popular office plant that's known for its ability to purify the air and improve indoor air quality. This plant prefers well-draining soil and should be watered once every seven days.
 
-[Dracaena](https://amazon.com/dp/B00004ZJLW?tag=fluxmint-20) is available on Amazon and starts at just $25.
+[Dracaena](https://amazon.com/dp/B00004ZJLW?tag=fluxmintdigit-20) is available on Amazon and starts at just $25.
 
 ### 6. Philodendron (Philodendron spp.)
 
 The philodendron is a beautiful office plant that's easy to care for and has heart-shaped leaves in a variety of colors. This plant prefers bright, indirect light and should be watered once every seven days.
 
-[Philodendron](https://amazon.com/dp/B00004ZKQX?tag=fluxmint-20) is available on Amazon and starts at just $15.
+[Philodendron](https://amazon.com/dp/B00004ZKQX?tag=fluxmintdigit-20) is available on Amazon and starts at just $15.
 
 ### 7. Succulent (Succulent spp.)
 
 Succulents are a great option for those who tend to forget to water their plants, as they can survive in dry conditions. This plant prefers bright light and should be watered once every seven days.
 
-[Succulent](https://amazon.com/dp/B00004ZJLW?tag=fluxmint-20) is available on Amazon and starts at just $15.
+[Succulent](https://amazon.com/dp/B00004ZJLW?tag=fluxmintdigit-20) is available on Amazon and starts at just $15.
 
 ### 8. Peperomia (Peperomia obtusifolia)
 
 The peperomia is a low-maintenance office plant that's known for its beautiful, heart-shaped leaves. This plant prefers high humidity and should be watered once every seven days.
 
-[Peperomia](https://amazon.com/dp/B00004ZKQX?tag=fluxmint-20) is available on Amazon and starts at just $15.
+[Peperomia](https://amazon.com/dp/B00004ZKQX?tag=fluxmintdigit-20) is available on Amazon and starts at just $15.
 
 ### 9. Calathea (Calathea spp.)
 
 The calathea is a beautiful office plant that's known for its stunning, unique leaves. This plant prefers bright, indirect light and should be watered once every seven days.
 
-[Calathea](https://amazon.com/dp/B00004ZJLW?tag=fluxmint-20) is available on Amazon and starts at just $25.
+[Calathea](https://amazon.com/dp/B00004ZJLW?tag=fluxmintdigit-20) is available on Amazon and starts at just $25.
 
 ### 10. Peace Lily (Spathiphyllum wallisii)
 
 The peace lily is a popular office plant that's known for its beautiful white blooms and ability to purify the air. This plant prefers well-draining soil and should be watered once every seven days.
 
-[Peace Lily](https://amazon.com/dp/B00004ZKQX?tag=fluxmint-20) is available on Amazon and starts at just $25.
+[Peace Lily](https://amazon.com/dp/B00004ZKQX?tag=fluxmintdigit-20) is available on Amazon and starts at just $25.
 
 ### Conclusion
 

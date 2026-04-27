@@ -25,7 +25,7 @@ Before we dive into our top picks, let's talk about what makes a great mouse pad
 
 Here are our top picks, carefully curated based on material, size, grip, and ergonomics:
 
-### 1. [Logitech MX Master 3 Mouse Pad](https://amazon.com/dp/B09R1RY9QG?tag=fluxmint-20)
+### 1. [Logitech MX Master 3 Mouse Pad](https://amazon.com/dp/B09R1RY9QG?tag=fluxmintdigit-20)
 
 This premium mouse pad features a sleek, compact design with a built-in wrist rest for added comfort.
 
@@ -36,7 +36,7 @@ This premium mouse pad features a sleek, compact design with a built-in wrist re
 | Grip | Excellent grip, suitable for heavy use |
 | Ergonomics | Built-in wrist rest for comfortable typing |
 
-### 2. [SteelSeries QcK+ Mouse Pad](https://amazon.com/dp/B07B9RQRVG?tag=fluxmint-20)
+### 2. [SteelSeries QcK+ Mouse Pad](https://amazon.com/dp/B07B9RQRVG?tag=fluxmintdigit-20)
 
 This popular mouse pad boasts a unique design with a built-in cable management system and a soft, velvety surface.
 
@@ -47,7 +47,7 @@ This popular mouse pad boasts a unique design with a built-in cable management s
 | Grip | Excellent grip, suitable for heavy use |
 | Ergonomics | Built-in cable management system |
 
-### 3. [Ergotron Vertical Mouse Pad](https://amazon.com/dp/B07B9RQRVG?tag=fluxmint-20)
+### 3. [Ergotron Vertical Mouse Pad](https://amazon.com/dp/B07B9RQRVG?tag=fluxmintdigit-20)
 
 This innovative mouse pad features a unique vertical design that reduces strain on your wrists and hands.
 
@@ -58,7 +58,7 @@ This innovative mouse pad features a unique vertical design that reduces strain 
 | Grip | Excellent grip, suitable for heavy use |
 | Ergonomics | Vertical design reduces strain on wrists and hands |
 
-### 4. [Razer DeathAdder Elite Mouse Pad](https://amazon.com/dp/B07B9RQRVG?tag=fluxmint-20)
+### 4. [Razer DeathAdder Elite Mouse Pad](https://amazon.com/dp/B07B9RQRVG?tag=fluxmintdigit-20)
 
 This premium mouse pad features a sleek, compact design with a built-in wrist rest for added comfort.
 

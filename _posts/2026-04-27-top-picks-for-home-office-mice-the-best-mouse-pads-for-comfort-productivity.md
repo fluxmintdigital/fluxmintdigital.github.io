@@ -22,31 +22,31 @@ Finally, consider the surface finish. Some pads have a smooth, glossy surface th
 
 ## Top Picks for Home Office Mice
 
-### 1. [Logitech MX Master 3 Mouse Pad](https://amazon.com/dp/PLACEHOLDER?tag=fluxmint-20)
+### 1. [Logitech MX Master 3 Mouse Pad](https://amazon.com/s?k=home+office?tag=fluxmintdigit-20)
 
 The Logitech MX Master 3 mouse pad is one of my personal favorites for home office use. It's made from high-quality bamboo that provides excellent grip and durability, and its compact size makes it perfect for small workspaces.
 
 One of the standout features of this pad is its unique texture, which changes depending on the surface you're using. On smooth surfaces like glass or metal, it becomes incredibly grippy; on rougher surfaces, it becomes more textured for added traction.
 
-### 2. [Razer BlackWidow Chroma V2 Mouse Pad](https://amazon.com/dp/PLACEHOLDER?tag=fluxmint-20)
+### 2. [Razer BlackWidow Chroma V2 Mouse Pad](https://amazon.com/s?k=home+office?tag=fluxmintdigit-20)
 
 The Razer BlackWidow Chroma V2 mouse pad is another top pick in the home office world. It's designed specifically for gamers, but its features make it a great choice for anyone looking for a high-quality pad.
 
 One of the standout features of this pad is its customizable lighting system, which allows you to personalize your workspace to suit your mood or style.
 
-### 3. [SteelSeries QcK+ Mouse Pad](https://amazon.com/dp/PLACEHOLDER?tag=fluxmint-20)
+### 3. [SteelSeries QcK+ Mouse Pad](https://amazon.com/s?k=home+office?tag=fluxmintdigit-20)
 
 The SteelSeries QcK+ mouse pad is a budget-friendly option that still packs a punch. It's made from high-quality PVC material and has a smooth, glossy surface that provides excellent grip.
 
 One of the standout features of this pad is its unique shape, which includes a built-in wrist rest for added comfort.
 
-### 4. [Corsair MM300 Mouse Pad](https://amazon.com/dp/PLACEHOLDER?tag=fluxmint-20)
+### 4. [Corsair MM300 Mouse Pad](https://amazon.com/s?k=home+office?tag=fluxmintdigit-20)
 
 The Corsair MM300 mouse pad is designed specifically for gamers and esports enthusiasts. It's made from high-quality materials and has a sleek, modern design that looks great on any desk.
 
 One of the standout features of this pad is its unique surface finish, which provides excellent grip without being too slippery under your hand.
 
-### 5. [HyperX Fury S Mouse Pad](https://amazon.com/dp/PLACEHOLDER?tag=fluxmint-20)
+### 5. [HyperX Fury S Mouse Pad](https://amazon.com/s?k=home+office?tag=fluxmintdigit-20)
 
 The HyperX Fury S mouse pad is a budget-friendly option that still packs a punch. It's made from high-quality PVC material and has a smooth, glossy surface that provides excellent grip.
 
